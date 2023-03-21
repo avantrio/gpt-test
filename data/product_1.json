@@ -1,0 +1,22 @@
+{
+    "Product name": "A.G.E. EYE COMPLEX",
+    "Product description": " A.G.E. Eye Complex is an advanced anti-wrinkle eye cream that improves the appearance of dark circles, puffiness, and crow’s feet associated with advanced glycation end-products (A.G.E.), a major factor of the natural aging process. This silky eye cream is formulated for the delicate eye area with a potent combination of proxylane, blueberry extract, and a complex of flavonoids and synergistic peptides. Also includes optical diffusers to diffuse light and immediately improve the radiance of tired dull-looking eyes.",
+    "How to use": "Once or twice daily, apply this anti-wrinkle eye cream under the eyes and around the brow area. If using in the morning, apply after SkinCeuticals AOX+ Eye Gel and follow",
+    "Key benefits": 
+        [
+            "Reduces the appearance of crow’s feet and wrinkles", 
+            "Improves the look of dark circles and puffiness",
+            "Immediately enhanced radiance around the eyes",
+            "Restores comfort to dry, aging skin"
+        ],
+    "Ingredients": [
+        {
+            "Ingredient name": "Dimethicone",
+            "Ingredient description": "A man-made silicone-based ingredient that is used in many skincare products as a stabilizer, designed to form a silky, smooth texture for easy spreadability. Dimethicone functions by forming an occlusive barrier on the skin, securing moisture while keeping out environmental stresses such as humidity, without clogging the pores. In addition, it fills in the pores and smooths blemishes. Dimethicone is non-comedogenic and non-acnegenic and is commonly used in oil-free formulations to give long-lasting moisturization without clogging the pores."
+        },
+        {
+            "Ingredient name": "Glycerin",
+            "Ingredient description": "As a powerful humectant, glycerin attracts water to the skin helping it retain its moisture levels, promotes healing, reducing irritation, and provides protective qualities by restoring the skin’s barrier function promoting skin health. The humectants properties in glycerin help to lock in moisture, keeping the skin soft and hydrated. Oily, acne-prone skin will benefit greatly from the skin-soothing properties of glycerin."
+        }
+    ]
+}

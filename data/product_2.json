@@ -1,0 +1,21 @@
+{
+    "Product name": "ACTIVE CLAY CLEANSER",
+    "Product description": "The Active Clay Cleanser deeply purifies to help balance oily skin. This dual-action, mineral-rich clay and charcoal formula actively cleanses and purifies. Formulated with kaolin clay, which absorbs excess oil, and activated binchotan charcoal powerfully adsorbs impurities to help balance skin. Botanical lipids and murumuru seed work together to attract and remove excess oil from skin while helping to protect its natural lipid barrier and promote a healthy microbiome. A bioflavonoid-rich complex of citrus, aloe and broccoli extract helps purify pores while leaving skin smooth, refined and revitalized.",
+    "How to use": "Massage onto a dampened face and neck. Rinse with lulewarm water and gently pat the skin dry.",
+    "Key benefits": 
+        [
+            "Helps to purify pores for smooth, revitalized skin", 
+            "Balances skin by removing excess oil and impurities",
+            "Protect skin's microbiome and natural lipid barrier"
+        ],
+    "Ingredients": [
+        {
+            "Ingredient name": "Tea Tree Oil",
+            "Ingredient description": "Tea tree oil has natural antibiotic and anti-fungal properties, that help to relieve excessive oiliness, making it an ideal ingredient for problematic skin types. Known for its anti-inflammatory and antimicrobial properties, tea tree oil is a popular choice for treating acne. It's thought to calm redness and inflammation as well, making it a great ingredient for acne-prone skin."
+        },
+        {
+            "Ingredient name": "Vitamin E",
+            "Ingredient description": "It is one of those important antioxidants for the proper function of many body organs, including the skin. It is well known for its ability to accelerate the skin’s healing process. Vitamin E helps to improve the skin’s strength, condition, and elasticity, helping to reduce the appearance of stretch marks and scarring. As an antioxidant, it can also help to maintain skin health by fighting damage caused by free radicals."
+        }
+    ]
+}
